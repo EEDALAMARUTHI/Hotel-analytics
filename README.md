@@ -25,4 +25,4 @@ Power BI dashboard for analyzing hotel performance across cities and platforms. 
 # var revcw = CALCULATE([ADR],dim_date[Wn]=selv-1)
 # var revpw = CALCULATE([ADR],FILTER(ALL(dim_date),dim_date[Wn]=selv-1))
 # RETURN
-# DIVIDE(revcw,revpw,0)-1
+DIVIDE(revcw,revpw,0)-1
