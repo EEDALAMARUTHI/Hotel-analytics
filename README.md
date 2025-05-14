@@ -26,5 +26,4 @@ Power BI dashboard for analyzing hotel performance across cities and platforms. 
 # var revpw = CALCULATE([ADR],FILTER(ALL(dim_date),dim_date[Wn]=selv-1))
 # RETURN
 DIVIDE(revcw,revpw,0)-1
- ```DAX Average Daily Rate = DIVIDE([Revenue],[Total Bookings],0) ``` ```DAX Revpar = DIVIDE([Revenue],[Total capacity]) ``` ```DAX DURN = DIVIDE([total_checkout],[No of days]) ``` 
-<pre> ```DAX var recvw = CALCULATE([ADR], dim_date[Wn] = selv - 1) var revpw = CALCULATE( [ADR], FILTER(ALL(dim_date), dim_date[Wn] = selv - 1) ) RETURN DIVIDE(revcw, revpw, 0) - 1 ``` ```DAX Average Daily Rate = DIVIDE([Revenue], [Total Bookings], 0) ``` ```DAX Revpar = DIVIDE([Revenue], [Total capacity]) ``` ```DAX DURN = DIVIDE([total_checkout], [No of days]) ``` </pre>
+ 
