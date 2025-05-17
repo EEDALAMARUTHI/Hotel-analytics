@@ -33,6 +33,9 @@ Total successful Bookings = SUM(fact_aggregated_bookings[successful_bookings])
 # ---------------------Insights and trends----------------------------
 ![image](https://github.com/user-attachments/assets/edd3390f-1881-4111-8fae-ccbab880d56d)  
 
+![image](https://github.com/user-attachments/assets/8062a076-0cfd-4e30-af5d-1050c75aa50d)
+
+
 
 
  
