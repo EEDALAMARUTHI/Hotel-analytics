@@ -31,8 +31,8 @@ DIVIDE(revcw,revpw,0)-1
 Total successful Bookings = SUM(fact_aggregated_bookings[successful_bookings])
 
 # ---------------------Insights and trends----------------------------
-# Revenue dropped slightly (-0.82%), signaling a potential concern in sales performance.  
-Occupancy % increased by 0.28%, and RevPAR increased by 0.28, indicating slightly better efficiency in filling rooms.  
-Realisation % increased by 0.01, a marginal gain in revenue recognition efficiency.  
-ADR remained flat, showing no price adjustments in average room rates.  
+![image](https://github.com/user-attachments/assets/edd3390f-1881-4111-8fae-ccbab880d56d)  
+
+
+
  
